@@ -3,6 +3,8 @@
 A simple example of [scatter_geo](https://plotly.com/python/scatter-plots-on-maps/) with 
 data from [World Population Prospects 2019](https://population.un.org/wpp2019/Download/Standard/Population/).
 
+![demo](https://raw.github.com/wiki/codequokka/dash-scatter-geo-example/images/animation.gif)
+
 # Requirments
 This example of dash app can be run on the host or on the docker.
 The following procedure is only for Ubuntu 20.04, however other Unix/Linux based operating systems should be able to meet this requirements in their own ways.

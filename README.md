@@ -42,13 +42,3 @@ $ docker run -ti --rm -p 8050:8050 -v ${PWD}/data:/usr/src/app/data dash-scatter
 ```
 
 Accsss http://127.0.0.1:8050/
-
-# Screenshots
-## Table
-![](/docs/images/animation.gif)
-
-## Line-chart
-![table](/docs/images/line-chart.jpg)
-
-## Multiple-pie-chart
-![table](/docs/images/multiple-pie-chart.jpg)

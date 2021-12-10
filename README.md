@@ -24,8 +24,8 @@ $ pip3 install pipenv
 # Usage
 ## Common
 ```cosole
-$ git clone https://github.com/codequokka/dash-pivottable-example
-$ cd dash-pivottable-example
+$ git clone https://github.com/codequokka/dash-scatter-geo-example
+$ cd dash-scatter-geo-example
 ```
 
 ## For running on the host
